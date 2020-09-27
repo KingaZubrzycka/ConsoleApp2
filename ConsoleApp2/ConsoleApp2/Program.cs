@@ -12,7 +12,8 @@ namespace ConsoleApp2
         {
             //did change
             // edit in VS
-            // coed to call Feature A
+            // code to call Feature A
+            // Code to call Feature C
         }
     }
 }
