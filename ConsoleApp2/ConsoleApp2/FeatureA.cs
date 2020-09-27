@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    class Class1
+    class FeatureA
     {
         public int Add (int x1,int x2)
         {
